@@ -1,0 +1,5 @@
+token5 3.91202
+token4 19.2636
+token3 7.01312
+token2 14.0671
+token1 9.65663
